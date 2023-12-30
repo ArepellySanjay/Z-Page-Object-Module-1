@@ -1,0 +1,36 @@
+<suite name = "orangeHRM test suit">
+	
+	<test name = "adminlogin with valid data">
+		
+		<classes>
+			
+			
+			<class name = "TestCases_page.Adminlogin"></class>
+			
+		</classes>
+		
+		
+	</test >
+	
+	<test name ="Adminlogin with innvalid  data">
+		
+		<classes>
+			
+			<class name = "TestCases_page.Adminlogin_with_invalid"></class>
+			
+		</classes>
+		
+	</test>
+	
+	
+	<test name = "Employee Registration Test">
+		
+		<classes>
+			
+			<class name = "TestCases_page.Employee_registration_test"></class>
+		</classes>
+		
+		
+	</test>
+	
+</suite>
